@@ -1,6 +1,6 @@
-package com.learnJava.streams;
+package br.com.dnkt.examples.java8.streams;
 
-import com.learnJava.data.StudentDataBase;
+import br.com.dnkt.examples.java8.data.StudentDataBase;
 
 public class StreamsMatchExample {
 

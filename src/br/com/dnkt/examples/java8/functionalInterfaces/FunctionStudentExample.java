@@ -1,13 +1,12 @@
-package com.learnJava.functionalInterfaces;
+package br.com.dnkt.examples.java8.functionalInterfaces;
 
-import com.learnJava.data.Student;
-import com.learnJava.data.StudentDataBase;
+import br.com.dnkt.examples.java8.data.Student;
+import br.com.dnkt.examples.java8.data.StudentDataBase;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
-import java.util.function.Predicate;
 
 public class FunctionStudentExample {
 

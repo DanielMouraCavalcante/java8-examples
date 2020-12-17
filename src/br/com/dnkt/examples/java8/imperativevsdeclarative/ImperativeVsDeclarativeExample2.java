@@ -1,4 +1,4 @@
-package com.learnJava.imperativevsdeclarative;
+package br.com.dnkt.examples.java8.imperativevsdeclarative;
 
 import java.util.ArrayList;
 import java.util.Arrays;

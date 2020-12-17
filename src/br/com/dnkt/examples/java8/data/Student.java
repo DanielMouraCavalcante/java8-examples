@@ -1,4 +1,4 @@
-package com.learnJava.data;
+package br.com.dnkt.examples.java8.data;
 
 import java.util.ArrayList;
 import java.util.List;

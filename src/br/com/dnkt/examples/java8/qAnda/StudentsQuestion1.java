@@ -1,6 +1,4 @@
-package com.learnJava.qAnda;
-
-import com.learnJava.data.Student;
+package br.com.dnkt.examples.java8.qAnda;
 
 import java.util.*;
 import java.util.function.Function;

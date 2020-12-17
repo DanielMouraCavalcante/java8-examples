@@ -1,4 +1,4 @@
-package com.learnJava.defaults;
+package br.com.dnkt.examples.java8.defaults;
 
 public class Client14 implements Interface1,Interface4{
 

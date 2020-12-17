@@ -1,6 +1,5 @@
-package com.learnJava.defaults;
+package br.com.dnkt.examples.java8.defaults;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

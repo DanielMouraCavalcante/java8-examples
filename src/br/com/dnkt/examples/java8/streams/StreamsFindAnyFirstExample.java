@@ -1,7 +1,7 @@
-package com.learnJava.streams;
+package br.com.dnkt.examples.java8.streams;
 
-import com.learnJava.data.Student;
-import com.learnJava.data.StudentDataBase;
+import br.com.dnkt.examples.java8.data.Student;
+import br.com.dnkt.examples.java8.data.StudentDataBase;
 
 import java.util.Optional;
 

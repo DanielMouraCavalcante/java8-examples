@@ -1,14 +1,7 @@
-package com.learnJava.parallelstreams;
+package br.com.dnkt.examples.java8.parallelstreams;
 
-import java.time.Duration;
-import java.time.LocalTime;
-import java.time.temporal.TemporalUnit;
-import java.util.concurrent.TimeUnit;
 import java.util.function.Supplier;
 import java.util.stream.IntStream;
-
-import static java.util.concurrent.TimeUnit.MINUTES;
-import static java.util.concurrent.TimeUnit.SECONDS;
 
 public class ParallelStreamExample {
 

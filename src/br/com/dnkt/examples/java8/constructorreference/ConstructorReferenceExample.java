@@ -1,6 +1,6 @@
-package com.learnJava.constructorReference;
+package br.com.dnkt.examples.java8.constructorreference;
 
-import com.learnJava.data.Student;
+import br.com.dnkt.examples.java8.data.Student;
 
 import java.util.function.Function;
 import java.util.function.Supplier;

@@ -1,8 +1,7 @@
-package com.learnJava.methodreferences;
+package br.com.dnkt.examples.java8.methodreferences;
 
-import com.learnJava.data.Student;
-import com.learnJava.data.StudentDataBase;
-import com.learnJava.functionalInterfaces.SupplierExample;
+import br.com.dnkt.examples.java8.data.Student;
+import br.com.dnkt.examples.java8.data.StudentDataBase;
 
 import java.util.function.BiPredicate;
 import java.util.function.Predicate;

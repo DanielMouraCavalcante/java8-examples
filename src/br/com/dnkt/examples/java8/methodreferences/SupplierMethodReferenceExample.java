@@ -1,6 +1,6 @@
-package com.learnJava.methodreferences;
+package br.com.dnkt.examples.java8.methodreferences;
 
-import com.learnJava.data.Student;
+import br.com.dnkt.examples.java8.data.Student;
 
 import java.util.function.Supplier;
 

@@ -1,4 +1,4 @@
-package com.learnJava.functionalInterfaces;
+package br.com.dnkt.examples.java8.functionalInterfaces;
 
 import java.util.function.Predicate;
 

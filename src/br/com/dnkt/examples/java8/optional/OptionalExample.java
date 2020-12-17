@@ -1,8 +1,7 @@
-package com.learnJava.optional;
+package br.com.dnkt.examples.java8.optional;
 
-import com.learnJava.data.Student;
-import com.learnJava.data.StudentDataBase;
-import com.sun.xml.internal.ws.api.ha.StickyFeature;
+import br.com.dnkt.examples.java8.data.Student;
+import br.com.dnkt.examples.java8.data.StudentDataBase;
 
 import java.util.Optional;
 

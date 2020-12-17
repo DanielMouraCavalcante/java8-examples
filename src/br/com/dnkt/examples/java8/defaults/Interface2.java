@@ -1,4 +1,4 @@
-package com.learnJava.defaults;
+package br.com.dnkt.examples.java8.defaults;
 
 /**
  * Created by z001qgd on 8/2/18.

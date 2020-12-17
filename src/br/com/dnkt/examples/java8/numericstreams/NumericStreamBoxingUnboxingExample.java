@@ -1,4 +1,4 @@
-package com.learnJava.numericstreams;
+package br.com.dnkt.examples.java8.numericstreams;
 
 import java.util.Collection;
 import java.util.List;

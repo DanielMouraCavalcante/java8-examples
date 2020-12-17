@@ -1,4 +1,4 @@
-package com.learnJava.parallelstreams;
+package br.com.dnkt.examples.java8.parallelstreams;
 
 import java.util.stream.IntStream;
 

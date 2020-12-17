@@ -1,6 +1,6 @@
-package com.learnJava.streams_terminal;
+package br.com.dnkt.examples.java8.streams_terminal;
 
-import com.learnJava.data.StudentDataBase;
+import br.com.dnkt.examples.java8.data.StudentDataBase;
 
 import java.util.stream.Collectors;
 

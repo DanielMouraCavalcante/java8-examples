@@ -1,7 +1,7 @@
-package com.learnJava.defaults;
+package br.com.dnkt.examples.java8.defaults;
 
-import com.learnJava.data.Student;
-import com.learnJava.data.StudentDataBase;
+import br.com.dnkt.examples.java8.data.Student;
+import br.com.dnkt.examples.java8.data.StudentDataBase;
 
 import java.util.Comparator;
 import java.util.List;

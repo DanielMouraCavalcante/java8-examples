@@ -1,4 +1,4 @@
-package com.learnJava.streams;
+package br.com.dnkt.examples.java8.streams;
 
 import java.util.List;
 import java.util.Random;
